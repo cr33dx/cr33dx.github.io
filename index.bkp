@@ -1,0 +1,430 @@
+<html><head>
+	<title>My CV</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta http-equiv="Generator" content="CV Maker - https://cvmkr.com/">
+	<link href="https://fonts.googleapis.com/css?family=Roboto:300,400,700,500" rel="stylesheet" type="text/css">
+	<style type="text/css">
+		html {
+			background: #222;
+			margin: 0;
+			padding: 0;
+		}
+		body {
+			background: #222;
+			margin: 0;
+			padding: 30px;
+			
+			font-family: 'Roboto', Helvetica, Arial;
+			line-height: 24px;
+			font-size: 16px;
+			font-weight: 200;
+			color: #fff;
+
+		}
+
+		h1, h2, h3, h4 {
+			margin: 0 0 15px 0;
+			padding: 0;
+			font-weight: 400;
+		}
+		h1 {
+			font-size: 300%;
+		}
+		h2 {
+			font-size: 210%;
+		}
+		h3 {
+			font-size: 130%;
+		}
+		
+		p {
+			margin: 0 0 10px 0;
+		}
+		
+		ul {
+			margin: 0;
+			padding: 0 0 0 10px;
+			list-style-type: square;
+		}
+		a {
+			color: #fff;
+		}
+		/* ________________________________________________________ */
+		
+		.clear {
+			clear: both;
+		}
+
+		#main {
+			background: #222;
+			width: 900px;
+			padding: 35px;
+			margin: 0 auto 15px auto;
+			overflow: hidden;
+			
+			box-shadow: 0 0 6px #333;
+		}
+		
+		#title {
+			line-height: 46px;
+			border-bottom: 6px solid #fff;
+			padding-bottom: 30px;
+			margin: 0px 0 30px 0;
+		}
+			#title .c {
+				display: block;
+			}
+			#title .email {
+				font-size: 20px;
+				font-weight: 100;
+				display: block;
+				line-height: 30px;
+			}
+		
+		#credit {
+			margin-bottom: 20px;
+			font-size: 11px;
+			color: #666;
+			text-align: center;
+		}
+			#credit a {
+				color: #666;
+			}
+		
+		p label {
+			font-weight: 400;
+			font-size: 110%;
+			margin-right: 10px;
+		}
+			p label span.colon {
+				display: inline;
+			}
+
+		
+		.item {
+			margin: 0 0 20px 0;
+		}
+
+		/*  _____________________________ */
+		.rtl {
+			direction: rtl;
+		}
+
+		.photo .basic-info .set {
+			float: none !important;
+			width: auto !important;
+		}
+		.section.basic-info {
+			border: 0;
+		}
+		.basic-info .address {
+			width: 40%;
+			float: left;
+		}
+		.basic-info .r {
+			float: right;
+			width: 58%;
+			text-align: right;
+		}
+			.basic-info label {
+				font-weight: 500;
+			}
+			.basic-info label, .basic-info span  {
+				display: inline !important;
+			}
+		.basic-info p {
+			margin: 0;
+		}
+		
+		.section {
+			border-bottom: 1px solid #555;
+			margin-bottom: 15px;
+		}
+			.section:last-child {
+				border: 0;
+			}
+		.section .title {
+			float: left;
+			font-size: 18px;
+			line-height: 32px;
+			word-wrap: break-word;
+			width: 26%;
+			margin-right: 30px;
+			font-weight: 400;
+		}
+		.section .set {
+			float: left;
+			width: 68%;
+		}
+			.section .set h3 {
+				margin: 0;
+			}
+		.section span.value {
+			display: block;
+		}
+		.section h3 span.l, .section span.r {
+			width: 49%;
+			float: left;
+		}
+			.section span.r {
+				float: right;
+				text-align: right;
+			}
+			.section-education .school,
+			.section-work .job_title {
+				font-size: 100%;
+				display: block;
+				margin: 5px 0 5px 0;
+			}
+
+		/* ___ photo ___ */
+		#photo {
+			width: 180px;
+			height: 180px;
+			overflow: hidden;
+			float: left;
+			border-radius: 100%;
+			vertical-align: middle;
+		}
+		#photo img {
+			width: 100%;
+			height: auto;
+			display: inline-block;
+		}
+		.header {
+			margin-bottom: 20px;
+		}
+		.header.photo {
+			float: right;
+			width: 68%;
+		}
+		.header.photo #title {
+			text-align: left;
+		}
+		.header.photo .basic-info {
+			float: none;
+			padding: 0;
+		}
+
+		@media screen and (max-width: 950px) {
+			#main {
+				box-shadow: none;
+				padding: 0;
+				padding: 5px;
+			}
+		}
+	</style>
+</head>
+<body class="lang-en " data-new-gr-c-s-check-loaded="14.1063.0" data-gr-ext-installed="">
+
+<div id="main">
+			<div id="photo">
+			<img src="https://s3-eu-west-1.amazonaws.com/files1.cvmkr.com/ceb6df_1722481_12190306.jpg" alt="">
+		</div>
+		<div class="header photo">
+	
+		<h1 id="title">Shashwat Mahar					<span class="email">shashwatmahar12@gmail.com</span>
+			</h1>
+
+	<div class="basic-info section">
+				<div class="set">
+		
+							<p class="address">
+					<span class="value">
+						Dehradun<br>Uttarakhand, 262501					</span>
+				</p>
+						<div class="r">
+									<p class="website"><label>Website<span class="colon">:</span></label> <span class="value"><a href="https://cr33dx.github.io" rel="nofollow">https://cr33dx.github.io</a> <a href="https://linkedin.com/cr33d" rel="nofollow">https://linkedin.com/cr33d</a> <a href="https://github.com/cr33dx" rel="nofollow">https://github.com/cr33dx</a></span></p>
+				
+									<p class="phone"><label>Phone<span class="colon">:</span></label> <span class="value">+918126277323</span></p>
+							</div>
+			<div class="clear"> </div>
+		</div><!-- set //-->
+		<div class="clear"> </div>
+	</div><!-- basic-info //-->
+
+			</div><div class="clear"> </div>
+	
+		
+			<div class="section section-work">
+			<h2 class="title">Work experience</h2>
+			<div class="set">
+								<div class="item">
+									<h3><span class="company l">Labra</span>
+							<span class="date r">Apr 2022 — Present</span>
+								</h3>
+								<div class="clear"> </div>
+								<span class="job_title">Senior Software Development Engineer</span><div class="info"><hr></div><div class="clear"> </div>
+								</div>
+							
+								<div class="item">
+									<h3><span class="company l">Labra</span>
+							<span class="date r">Mar 2021 — Apr 2022</span>
+								</h3>
+								<div class="clear"> </div>
+								<span class="job_title">Software Development Engineer</span><div class="info"><ul><li>Distributed Systems based on micro service architecture</li><li>API's using golang, python.</li><li>Worked with AWS SAM, ECS, Secrets Manager, KMS</li></ul><div><hr></div></div><div class="clear"> </div>
+								</div>
+							
+								<div class="item">
+									<h3><span class="company l">SupportGenie</span>
+							<span class="date r">Mar 2019 — Mar 2021</span>
+								</h3>
+								<div class="clear"> </div>
+								<span class="job_title">DevOps</span><div class="info"><ul><li>Moved the system from monolithic to micro services architecture using <span style="font-weight:bold;">docker</span>, <span style="font-weight:bold;">docker-compose</span>.</li><li>Orchestrated the system using <span style="font-weight:bold;">docker swarm</span> which we did not had a whole control over.</li><li>Moved the system to using Managed <span style="font-weight:bold;">Kubernetes</span> in AWS-eks, Digital Ocean kubernetes service.</li><li>Image registry being used are AWS-ecr, digital ocean container registry</li><li>Github actions to make test pipelines, make images, push images to ecr, digital ocean</li><li>Images made of minimal size using Alpine Linux as base image, docker multi stage builds.</li><li>Monitoring systems metrics using <span style="font-weight:bold;">Prometheus</span> &amp; <span style="font-weight:bold;">Grafana.</span></li><li>Architected the infrastructure for 911 cloud based system that passed the Interop tests, Interop for California to be held soon.</li><li>Shell scripts to automate daily backups.</li><li><span style="font-weight:bold;">Terraform, AWS CloudFormation</span> for IaaC.</li><li>Implemented KeyCloak for authentication &amp; authorization of users and roles.</li></ul><hr></div><div class="clear"> </div>
+								</div>
+							
+								<div class="item">
+									<h3><span class="company l">SupportGenie</span>
+							<span class="date r">Mar 2019 — May 2019</span>
+								</h3>
+								<div class="clear"> </div>
+								<span class="job_title">ChatBot Developer</span><div class="info">With the help of <span style="font-weight:bold;">Azure Bot Service</span> created a chatbot that was embedded in websites that responded to&nbsp; chit/chats &amp; FAQs.<div>There were few limitations with the azure platform</div><div><ul><li>Training took a long amount of time</li><li>Pricing was a concern</li><li>There was a lag when receiving reply from the azure platform</li></ul>With these limitations proposed a&nbsp; move to <span style="font-weight:bold;">Open Source RASA</span> bot which is a contextual chat bot based on NLP &amp; NLU</div><div><ul><li>Was Fast as it was on our own infrastructure</li><li>Training was quick as we used a gpu server for training</li><li>Supports entity extraction from intents</li><li>It was OSS.</li></ul>The move to RASA was challenging as we had to move from a few api calls to azure platform bot to Training RASA bot, Tuning it, Deploying it, then making api calls to talk with it.</div><div><br></div><div>The process was mostly automated with the use of docker containers.&nbsp;</div><div><hr></div></div><div class="clear"> </div>
+								</div>
+							
+								<div class="item">
+									<h3><span class="company l">SupportGenie</span>
+							<span class="date r">May 2019 — Aug 2019</span>
+								</h3>
+								<div class="clear"> </div>
+								<span class="job_title">FrontEnd Developer</span><div class="info"><span>Created UI for FAQ Configuration App Using </span><b>ReactJs.</b><div><span>The FAQ were used by </span><b>RASA</b><span> bot as training data</span><br><div><ul><li>The app consisted of a number of reusable components made with react hooks.</li><li>All the modules were ECMA6 based modules.</li><li>Data was fetched with JS asynchronous fetch</li><li>Built responsiveness with CSS Grid.</li><li>All the components build were based of material ui</li><li>Use of REST to update/add/delete data.</li></ul><hr></div></div></div><div class="clear"> </div>
+								</div>
+							
+								<div class="item">
+									<h3><span class="company l">SupportGenie</span>
+							<span class="date r">Aug 2019 — Oct 2019</span>
+								</h3>
+								<div class="clear"> </div>
+								<span class="job_title">Computer Vision</span><div class="info"><span>With the help of <span style="font-weight:bold;">tensorflow</span> and <span style="font-weight:bold;">keras</span> created a siamese neural network with one shot learning.</span><div><ul><li>Siamese network relies on Convolutional neural networks, siamese means twin, the 2 neural networks are trained on same data on predictions when passed 2 images the network tries to give similarity btw the images as floating value.</li><li>Training of one shot siamese network requires less training data 10-20 images/class</li><li>The network had a good training &amp; validation accuracy.</li></ul><hr></div></div><div class="clear"> </div>
+								</div>
+							</div>
+			<div class="clear"> </div>
+		</div>
+			<div class="section section-1601454287206">
+			<h2 class="title">Internships</h2>
+			<div class="set">
+							<div class="item">
+								<span class="info"><h4><span>Automation Testing @ Actionable Science (Jan 2019 - Mar 2019)</span></h4><div><div><ul><li><span>Created automation testing suite for frontend using Puppeteer, Jest, Chai/Mocha.For automated testing of chat bot used Botium</span></li></ul>
+
+<div>
+			<div>
+				<div>
+					<div>
+						<hr><h4><span>Software Development @&nbsp;Bharat Heavy Electronics(BHEL), Haridwar(May 2017- Jun 2017)&nbsp;</span></h4><div><ul><li><span>Made Speech Chat Bot using microsoft speech-text api on C#&nbsp;</span></li></ul><span><br></span></div>
+					</div>
+				</div>
+			</div>
+		</div></div></div></span>
+							</div>
+						</div>
+			<div class="clear"> </div>
+		</div>
+			<div class="section section-education">
+			<h2 class="title">Education</h2>
+			<div class="set">
+						<div class="item">
+							<h3><span class="course l">Bachelor of Technology (B.Tech), Computer science</span>
+						<span class="date r">2014 — 2018</span>
+							</h3>
+							<div class="clear"> </div>
+							<span class="school">Dehradun Institute of Technology</span><div class="info"><div>
+			<div>
+				<div>
+					<div>
+						<p>CGPA: 5.70/10
+</p>
+					</div>
+				</div>
+			</div>
+		</div></div><span class="clear"> </span>
+						</div>
+						
+						<div class="item">
+							<h3><span class="course l">Senior Secondary (XII), Science</span>
+						<span class="date r"> — 2012</span>
+							</h3>
+							<div class="clear"> </div>
+							<span class="school">Army Public School Pithoragarh</span><div class="info"><div>
+			<div>
+				<div>
+					<div>
+						<p>Percentage: 60.00%
+</p>
+					</div>
+				</div>
+			</div>
+		</div></div><span class="clear"> </span>
+						</div>
+						
+						<div class="item">
+							<h3><span class="course l">Secondary (X)</span>
+						<span class="date r"> — 2010</span>
+							</h3>
+							<div class="clear"> </div>
+							<span class="school">Maharshi Vidya Mandir Pithoragarh</span><div class="info"><div>
+			<div>
+				<div>
+					<div>
+						<p>CGPA: 8.40/10
+</p>
+					</div>
+				</div>
+			</div>
+		</div></div><span class="clear"> </span>
+						</div>
+						</div>
+			<div class="clear"> </div>
+		</div>
+			<div class="section section-qualifications">
+			<h2 class="title">Certifications</h2>
+			<div class="set">
+							<div class="item">
+								<span class="info"><span><span><b>Neural Networks and Deep Learning @ Coursera</b></span></span><div><span><span><a>https://coursera.org/share/dc3cf379026d7abd09689529c9253147</a></span></span></div><div><hr></div><div><span style="font-weight:bold;">Rest Api (</span><span style="font-weight:700;">Intermediate</span><span style="font-weight:bold;">) @ HackerRank</span></div><div><a>https://www.hackerrank.com/certificates/bd9527fb2805</a></div><div><br></div></span>
+							</div>
+						</div>
+			<div class="clear"> </div>
+		</div>
+			<div class="section section-1601454871331">
+			<h2 class="title">Positions Of Responsibility</h2>
+			<div class="set">
+							<div class="item">
+								<span class="info"><h4>Leader @ Grizz Hacks 2020</h4><div><span>https://devpost.com/software/bearbot-mwxz4f</span></div><div><ul><li><span>Lead a team of 4 where we made an chat bot which can recognise a specie of a bear if you sent the bot a picture of bear</span></li></ul></div><hr><h4>Leader @ FireFox Student Club(Dit University Chapter)</h4><div><span>https://wiki.mozilla.org/DIT_Firefox_Club&nbsp;</span></div><div><ul><li><span>Organised BootCamps to introduce club members to OSS</span></li><li><span>Organised many campaigns&nbsp;related to OSS, Mozila</span></li></ul><hr><h4>Manager @ Google Students Community(Dit University Chapter)</h4><div><ul><li><span>Organised&nbsp;various hackathons&nbsp;on Raspberry Pi, IOT etc</span></li><li><span>Oragnised various coding events</span></li><li><span>Organised certain events where we educated people of the city about digital footprint.</span></li></ul></div></div></span>
+							</div>
+						</div>
+			<div class="clear"> </div>
+		</div>
+			<div class="section section-1655439883739">
+			<h2 class="title">Awards</h2>
+			<div class="set">
+							<div class="item">
+								<span class="info"><div><span style="font-weight:bold;">Challenge Explorer @ Labra</span></div><div><span>https://raw.githubusercontent.com/cr33dx/cr33dx.github.io/master/Shashwat.jpg</span></div><div><hr><span style="font-weight:700;">Certificate Of Appreciation @ Labra</span></div><div><span>https://raw.githubusercontent.com/cr33dx/cr33dx.github.io/master/Certificate_Appreciation.png</span></div></span>
+							</div>
+						</div>
+			<div class="clear"> </div>
+		</div>
+			<div class="section section-interests">
+			<h2 class="title">Skills</h2>
+			<div class="set">
+							<div class="item">
+								<span class="info"><div>
+			<div>
+				<div>
+					<div>
+						<span>JavaScript</span></div><div><span>Python</span></div><div><span>C</span><span>&nbsp;Programming</span></div><div><span>Node.js</span></div><div><span>Kubernetes</span></div><div><span>Linux&nbsp;</span></div><div><span>ReactJS</span></div><div><span>Docker</span></div><div><span>GoLang</span></div><div><span>AWS</span></div>
+				</div>
+			</div>
+		</div></span>
+							</div>
+						</div>
+			<div class="clear"> </div>
+		</div>
+			<div class="section section-references">
+			<h2 class="title">References</h2>
+			<div class="set">
+							<div class="item">
+								<span class="info">References available upon request.</span>
+							</div>
+						</div>
+			<div class="clear"> </div>
+		</div>
+		
+</div>
